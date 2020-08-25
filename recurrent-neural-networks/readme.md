@@ -1,0 +1,1 @@
+this is training rnn in udacity
